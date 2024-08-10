@@ -4,7 +4,8 @@
 - [Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python](#implementation_of_double_sideband_suppressed_carrier_(DSBSC)_modulation_and_demodulation_system_using_python)
 - [Ideal sampling and reconstruction of signals using python](#ideal_sampling_and_reconstruction_of_signals_using_python)
 - [Delta Modulator Implementation in Matlab](#delta_modulator_implementation_in_matlab)
-### Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python
+
+## Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python
 Leveraging a product modulator for generating the DSBSC signal and a coherent demodulator for accurately retrieving the original message signal from the modulated wave.
 
 For exmaple - generate DSBSC wave based on product modulator. Assume fc = 10kHz, fm = 500Hz, Am = 0.5v, Ac = 1v. Show the power spectrum of the modulated waveform.
@@ -20,7 +21,7 @@ After Modulation and Reconstruction it is observed that the envelope of the demo
 ![estimated demod](https://github.com/user-attachments/assets/7e47f564-f7c2-4aa8-aea2-f05b431773c3)
 
 
-### Ideal sampling and reconstruction of signals using python
+## Ideal sampling and reconstruction of signals using python
 First continuous time signals are converted into discrete time signals. The Nyquist frequency is Determined and reconstruction of the continuous time signal is done using samples taken at a rate higher than the Nyquist frequency. 
 Two signal are taken for this example - 
 
@@ -38,7 +39,7 @@ Two signal are taken for this example -
 ![image](https://github.com/user-attachments/assets/434c928b-08a6-4d06-8533-dee46c655ea3)
 
 
-### Delta Modulator Implementation in Matlab
+## Delta Modulator Implementation in Matlab
 A signal is generated and delta Modulation is performed, the similarities between the plotted signal and delta modulated signals are compared
 For example
 ![image](https://github.com/user-attachments/assets/3fe8d976-2caa-4cd6-8a71-2fbaba471e65)
