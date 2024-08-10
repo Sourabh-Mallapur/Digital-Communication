@@ -24,15 +24,36 @@ Two signal are taken for this example -
 
 ![image](https://github.com/user-attachments/assets/607e1d1f-9b1b-4514-8f83-6656a2b9ef81)
 
-#### Signal A - 
+### Signal A - 
 ![image](https://github.com/user-attachments/assets/97469d53-7464-40c8-9ea1-a43089dd00a0)
 ![image](https://github.com/user-attachments/assets/d2ca4610-711d-44a3-8416-7c8a71a03280)
 ![image](https://github.com/user-attachments/assets/a325af44-0dd9-4fb2-8704-def50c4f1338)
 
-#### Signal B - 
+### Signal B - 
 
 ![image](https://github.com/user-attachments/assets/ed0fdab8-241c-4671-ab37-8925585dfabd)
 ![image](https://github.com/user-attachments/assets/3a2e1c62-4351-42f9-b2f3-c783afd0dd65)
 ![image](https://github.com/user-attachments/assets/434c928b-08a6-4d06-8533-dee46c655ea3)
 
+
+### Delta Modulator Implementation in Matlab
+A signal is generated and delta Modulation is performed, the similarities between the plotted signal and delta modulated signals are compared
+For example x(t) = (sin 2πt − cos 4πt 0 ≤ t ≤ 2
+                                    0 elsewhere
+delta modulation of x(t) is performed - 
+### Ts = 0.01s and δ = 0.1
+![untitled](https://github.com/user-attachments/assets/7bd433a8-40d1-4979-a7b6-4c522aef7a9a)
+High degree of slope overload error
+
+### Ts = 0.01s and δ = 0.2
+![untitled2](https://github.com/user-attachments/assets/737af64a-122f-455d-926d-8f7645eceaec)
+Looks just right
+
+### Ts = 0.02s and δ = 0.3
+![Picture](https://github.com/user-attachments/assets/e163fdf9-2a1b-4402-b4c4-a9c16a250184)
+Looks just right
+
+### Ts = 0.02s and δ = 0.5
+![untitled4](https://github.com/user-attachments/assets/af90781d-962e-4cba-b588-198d3f4ef12d)
+We see High degree of Granular error
 
