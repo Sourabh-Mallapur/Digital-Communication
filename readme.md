@@ -1,9 +1,10 @@
 ## Design and Simulation of Modulation Techniques and Signal Reconstruction Methods in Python and Matlab
 
 ## Contents 
-- [Implementation of a Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python](#Implementation of a Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python)
+- [Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python](#implementation_of_double_sideband_suppressed_carrier_(DSBSC)_modulation_and_demodulation_system_using_python)
+- 
 
-### Implementation of a Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python
+### Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python
 Leveraging a product modulator for generating the DSBSC signal and a coherent demodulator for accurately retrieving the original message signal from the modulated wave.
 
 For exmaple - generate DSBSC wave based on product modulator. Assume fc = 10kHz, fm = 500Hz, Am = 0.5v, Ac = 1v. Show the power spectrum of the modulated waveform.
