@@ -2,8 +2,8 @@
 
 ## Contents 
 - [Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python](#implementation_of_double_sideband_suppressed_carrier_(DSBSC)_modulation_and_demodulation_system_using_python)
-- 
-
+- [Ideal sampling and reconstruction of signals using python](#ideal_sampling_and_reconstruction_of_signals_using_python)
+- [Delta Modulator Implementation in Matlab](#delta_modulator_implementation_in_matlab)
 ### Implementation of Double Sideband Suppressed Carrier (DSBSC) modulation and demodulation system using Python
 Leveraging a product modulator for generating the DSBSC signal and a coherent demodulator for accurately retrieving the original message signal from the modulated wave.
 
