@@ -50,7 +50,7 @@ High degree of slope overload error
 Looks just right
 
 ### Ts = 0.02s and δ = 0.3
-![Picture](https://github.com/user-attachments/assets/e163fdf9-2a1b-4402-b4c4-a9c16a250184)
+![untitled2](https://github.com/user-attachments/assets/67cd527d-8de9-4ccf-9a04-8aad1b1e1d51)
 Looks just right
 
 ### Ts = 0.02s and δ = 0.5
