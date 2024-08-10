@@ -6,7 +6,7 @@ For exmaple - generate DSBSC wave based on product modulator. Assume fc = 10kHz,
 ![message](https://github.com/user-attachments/assets/ce72d8d7-2eb8-493d-b8b6-bbc710cee911)
 ![carrier](https://github.com/user-attachments/assets/474ba050-e0dd-4ff5-a5e0-83d270982cad)
 
-The modulated wave and its power spectrum is also plotted
+The modulated wave and its spectrum is also plotted
 ![modulated](https://github.com/user-attachments/assets/5a48c6aa-8656-4a86-85b3-126f9dba654b)
 ![modulated_spectrum](https://github.com/user-attachments/assets/6a5bf865-4928-4104-8ff7-20359509d6b8)
 
