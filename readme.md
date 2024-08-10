@@ -38,8 +38,8 @@ Two signal are taken for this example -
 
 ### Delta Modulator Implementation in Matlab
 A signal is generated and delta Modulation is performed, the similarities between the plotted signal and delta modulated signals are compared
-For example x(t) = (sin 2πt − cos 4πt 0 ≤ t ≤ 2
-                                    0 elsewhere
+For example
+![image](https://github.com/user-attachments/assets/3fe8d976-2caa-4cd6-8a71-2fbaba471e65)
 delta modulation of x(t) is performed - 
 ### Ts = 0.01s and δ = 0.1
 ![untitled](https://github.com/user-attachments/assets/7bd433a8-40d1-4979-a7b6-4c522aef7a9a)
