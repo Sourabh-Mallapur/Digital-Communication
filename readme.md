@@ -10,6 +10,6 @@ The modulated wave and its power spectrum is also plotted
 ![modulated](https://github.com/user-attachments/assets/5a48c6aa-8656-4a86-85b3-126f9dba654b)
 ![modulated_spectrum](https://github.com/user-attachments/assets/6a5bf865-4928-4104-8ff7-20359509d6b8)
 
-After Modulation and Reconstruction
+After Modulation and Reconstruction it is observed that the envelope of the demodulated signal resembles the original signal, reconstuction is usually done with a envelope detector circuit
 ![demodulated](https://github.com/user-attachments/assets/8d2860a6-4aaf-4ee3-8e15-a36b86ae89f9)
 ![estimated demod](https://github.com/user-attachments/assets/7e47f564-f7c2-4aa8-aea2-f05b431773c3)
